@@ -1,4 +1,4 @@
-<h2 style="text-align: left;">به نام خدا</h2>
+<h2 style="text-align: right;">به نام خدا</h2>
 <div dir="rtl"><strong>پروژه ی ایروکس (Irux) چیست ؟</strong></div>
 <div dir="rtl">&nbsp;</div>
 <div dir="rtl">هدف پروژه ی ایروکس (Irux) در واقع ایجاد یک فایل chm هست که در این فایل، توضیحات کامل دستورات شل لینوکس (مانند دستورات ls, cd, grep, find, و سایر دستورات شل) به همراه مثال های متعدد برای آن دستور گرد اوری شده باشد.</div>
